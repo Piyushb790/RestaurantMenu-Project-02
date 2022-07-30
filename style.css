@@ -50,6 +50,7 @@ nav {
   border: none;
   color: #ffffff;
   font-size: 20px;
+  cursor: pointer;
 }
 
 .hero-heading {
@@ -65,11 +66,12 @@ nav {
   margin-right: 50px;
 }
 
-.button-large{
+.button-large {
   padding: 15px 50px;
   background-color: #fb545c;
   border: none;
   color: #ffffff;
   font-size: 25px;
   margin-left: 600px;
+  cursor: pointer;
 }
